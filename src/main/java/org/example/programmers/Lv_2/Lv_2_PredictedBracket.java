@@ -1,4 +1,4 @@
-package org.example.programmers;
+package org.example.programmers.Lv_2;
 
 /**
  * 결과적으로 다른 사람의 코드를 보고 풀었다.

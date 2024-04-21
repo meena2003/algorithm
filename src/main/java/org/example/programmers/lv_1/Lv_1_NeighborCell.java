@@ -1,4 +1,4 @@
-package org.example.programmers;
+package org.example.programmers.lv_1;
 
 /**
  * 공원 산책이란 문제와 너무 비슷하다.

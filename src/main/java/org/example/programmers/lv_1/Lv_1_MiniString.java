@@ -1,4 +1,4 @@
-package org.example.programmers;
+package org.example.programmers.lv_1;
 
 /**
  * 처음에는 p를 int형으로 파싱했는데, 런타임 에러가 나왔다.

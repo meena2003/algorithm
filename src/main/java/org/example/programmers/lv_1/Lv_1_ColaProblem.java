@@ -1,4 +1,4 @@
-package org.example.programmers;
+package org.example.programmers.lv_1;
 
 /**
  * 풀고나면 별거 아닌데 굉장히 오래 걸린 문제..

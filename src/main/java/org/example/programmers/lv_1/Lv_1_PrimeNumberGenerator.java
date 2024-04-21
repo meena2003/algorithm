@@ -1,4 +1,4 @@
-package org.example.programmers;
+package org.example.programmers.lv_1;
 
 /**
  * 크게 두 가지 로직으로 나눴다.

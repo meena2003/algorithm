@@ -1,4 +1,4 @@
-package org.example.programmers;
+package org.example.programmers.Lv_2;
 
 /**
  * 혼자 힘으로 풀었다.

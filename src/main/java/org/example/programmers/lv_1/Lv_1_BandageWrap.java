@@ -1,4 +1,4 @@
-package org.example.programmers;
+package org.example.programmers.lv_1;
 
 /**
  * 예상보다 쉬웠다. 인텔리제이 도움을 받지 않고 풀 수 있었다.

@@ -1,4 +1,4 @@
-package org.example.programmers;
+package org.example.programmers.lv_1;
 
 /**
  * 처음에 복잡하게 생각해서 정말 어려웠던 문제.

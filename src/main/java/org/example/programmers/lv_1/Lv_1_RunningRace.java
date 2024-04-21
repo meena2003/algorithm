@@ -1,4 +1,4 @@
-package org.example.programmers;
+package org.example.programmers.lv_1;
 
 import java.util.HashMap;
 import java.util.Map;
