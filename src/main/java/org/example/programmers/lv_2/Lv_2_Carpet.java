@@ -1,4 +1,4 @@
-package org.example.programmers.Lv_2;
+package org.example.programmers.lv_2;
 
 /**
  * 과거에 풀었던 문제인데 복습 차원으로 다시 풀었다.

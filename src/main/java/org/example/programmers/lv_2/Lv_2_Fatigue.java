@@ -1,4 +1,4 @@
-package org.example.programmers.Lv_2;
+package org.example.programmers.lv_2;
 
 public class Lv_2_Fatigue {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package org.example.programmers.Lv_2;
+package org.example.programmers.lv_2;
 
 /**
  * 진짜 너무 스트레스 받는다...
